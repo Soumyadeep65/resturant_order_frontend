@@ -8,7 +8,6 @@ This is a simple restaurant order system built with React. It allows users to br
 
 1. Clone the repository:
 
-```bash
 git clone https://github.com/your-username/resturant_order_frontend.git
 cd restaurant-order-system
 
@@ -21,7 +20,7 @@ npm start
 4. Running Tests
 npm test
 
-Components :- 
+## Components
 1) ProductList
 File: src/components/ProductList/ProductList.jsx
 Description: Displays a list of products.
